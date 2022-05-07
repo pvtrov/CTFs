@@ -1,7 +1,7 @@
 
 
 
-# CELEBRO CTF 2022
+# CEREBRO CTF 2022
 
 Team Klocki:
 * Aga Patro
