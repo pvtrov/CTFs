@@ -1,4 +1,11 @@
+
+
+
 # CELEBRO CTF 2022
+
+Team Klocki:
+* Aga Patro
+* Jakub Młocek
 
 ## OSINT - Door in the picture
 ![OSINT](OSINT.2022.png)
